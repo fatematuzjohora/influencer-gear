@@ -133,6 +133,15 @@ footer{
     padding-top: 40px;
 }
 
+@media {max-width:688px} {
+    .top-section{
+        display: block;
+        margin-top: 20px
+    }
+    
+}
+
+
 
 
 
