@@ -18,6 +18,9 @@ h1{
     font-size: 50px;
     
 }
+.second-class:hover{
+    transform: rotate(180deg);
+}
 .f-pragraph{
     width: 60%;
     height: 80px;
@@ -52,6 +55,7 @@ h1{
     
   
 }
+
 /* -------second part-------- */
 .p-c{
     text-align: center;
@@ -116,6 +120,17 @@ small{
 .order{
     text-decoration: none;
     color: #E02C6D;
+}
+/* ---------footer---------- */
+
+footer{
+    background-color: rgb(3, 3, 53);
+    margin-top: 60px;
+    color: white;
+    text-align: center;
+}
+.footer-head{
+    padding-top: 40px;
 }
 
 
